@@ -261,3 +261,4 @@
 #' }
 #'
 'abund.manycensus'
+'Cool!'
